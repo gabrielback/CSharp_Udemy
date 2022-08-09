@@ -1,3 +1,7 @@
+# Seção 004 (Classes, atributos, métodos, membros estáticos)
+
+    Esse capitulo é focado no entendimento de Classes, atributos, métodos e membros estáticos.
+    O capítulo contém alguns exercícios para fixação do conteúdo.
 * [039 - Criando uma classe com três atributos para representar melhor um triângulo](./039_ClasseTriangulo_C_OOP/)
 
   * [040.1 - Primeiros exercícios](./040_Exercicios/040_Exerc%C3%ADcio01/)
