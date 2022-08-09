@@ -13,6 +13,15 @@
 * [042 - Começando a resolver um segundo problema exemplo](./042_PrecoDoProduto/)
 
 * [043 - Object e ToString](./043_PrecoDoProduto_Object_ToString/)
+  ```csharp
+          public override string ToString()
+        {
+            return $"Nome: {Nome}," +
+                $" Preço: ${Preco.ToString("F2", CultureInfo.InvariantCulture)}," +
+                $" Quantidade: {Quantidade}," +
+                $" Total em estoque: ${ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
+        }
+  ```
 
 * [044 - Terminando de construir o programa](./043_PrecoDoProduto_Object_ToString/)
 
