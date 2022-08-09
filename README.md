@@ -6,6 +6,6 @@
 
 ## [Seção 003 (Recapitulação de Lógica de Programação usando C#)](./section003/)
 
-## [Seção 004 (Classes, atributos, métodos, membros estáticos)](./section04/section004.md)
+## [Seção 004 (Classes, atributos, métodos, membros estáticos)](./section04/)
 
 ## [Seção 005 (Construtores, palavra this, sobrecarga, encapsulamento)](./section005/)
