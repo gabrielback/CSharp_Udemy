@@ -1,18 +1,11 @@
 # C# Udemy
 
-## Section 001
+## [Seção 001 (Apresentação do curso e orientações)](./section001/)
     
-## Section 002
+## [Seção 002 (Introdução a C# e .NET)](./section002/)
 
-## Section 003
+## [Seção 003 (Recapitulação de Lógica de Programação usando C#)](./section003/)
 
-## Section 004
+## [Seção 004 (Classes, atributos, métodos, membros estáticos)](./section04/section004.md)
 
-[039 - Criando uma classe com três atributos para representar melhor um triângulo](./section04/039_ClasseTriangulo)
-
-040 - 
-
-041 - 
-
-## Section 005
-
+## [Seção 005 (Construtores, palavra this, sobrecarga, encapsulamento)](./section005/)
