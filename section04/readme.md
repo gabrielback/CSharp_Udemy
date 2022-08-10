@@ -27,10 +27,19 @@
 
 * [045 - Exercícios Propostos](./043_PrecoDoProduto_Object_ToString/)
 
-  * [045.1 - Classe Retângulo](./043_PrecoDoProduto_Object_ToString/)
+  * [045.1 - Classe Retângulo](./045_1_ClasseRetangulo/Retangulo.cs)
 
-  * [045.2 - Classe Funcionário](./043_PrecoDoProduto_Object_ToString/)
+  * [045.2 - Classe Funcionário](./045_2_Funcionario/Funcionario.cs)
 
-  * [045.3 - Classe Aluno](./043_PrecoDoProduto_Object_ToString/)
+
+
+  * [045.3 - Classe Aluno](./045_3_Aluno/Aluno.cs) - [Program.cs](./045_1_ClasseRetangulo/Program.cs)
+
+  * [046 - Membros Estáticos](./readme.md)
+
+    ```C#
+    //Membros estáticos não precisão ser instanciados. Ex: 
+    Math.sqrt()
+    ```
 
 [Voltar](../README.md)
