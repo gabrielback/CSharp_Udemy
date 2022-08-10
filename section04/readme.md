@@ -27,9 +27,9 @@
 
 * [045 - Exercícios Propostos](./043_PrecoDoProduto_Object_ToString/)
 
-  * [045.1 - Classe Retângulo](./045_1_ClasseRetangulo/Retangulo.cs)
+  * [045.1 - Classe Retângulo](./045_1_ClasseRetangulo/Retangulo.cs) - [Program.cs](./045_1_ClasseRetangulo/Program.cs)
 
-  * [045.2 - Classe Funcionário](./045_2_Funcionario/Funcionario.cs)
+  * [045.2 - Classe Funcionário](./045_2_Funcionario/Funcionario.cs) - [Program.cs](./045_2_Funcionario/Program.cs)
 
 
 
