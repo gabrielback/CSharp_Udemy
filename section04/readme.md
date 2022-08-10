@@ -38,7 +38,7 @@
   * [046 - Membros Estáticos](./readme.md)
 
     ```C#
-    //Membros estáticos não precisão ser instanciados. Ex: 
+    //Membros estáticos não precisam ser instanciados. Ex: 
     Math.sqrt()
     ```
 
