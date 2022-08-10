@@ -35,7 +35,7 @@
 
   * [045.3 - Classe Aluno](./045_3_Aluno/Aluno.cs) - [Program.cs](./045_1_ClasseRetangulo/Program.cs)
 
-  * [046 - Membros Estáticos](./readme.md)
+ * [046 - Membros Estáticos](./readme.md)
 
     ```C#
     //Membros estáticos não precisam ser instanciados. Ex: 
